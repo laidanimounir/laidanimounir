@@ -1,70 +1,99 @@
-# Hi, I'm Mounir 👋  
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Mounir&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</p>
 
-## Über mich
-Ich bin Mounir, angehender **Fachinformatiker für Anwendungsentwicklung** mit großer Leidenschaft für Web-, Mobile- und Softwareentwicklung.  
-Derzeit bereite ich mich auf eine Ausbildung in Deutschland vor und erweitere meine praktischen Programmierkenntnisse durch eigene Projekte und kontinuierliches Lernen.  
+<h1 align="center">👨‍💻 Aspiring Fachinformatiker für Anwendungsentwicklung</h1>
 
-## About me
-I am an aspiring application developer focused on building real‑world web, mobile, and desktop applications.  
-My current goal is to start an **Ausbildung as Fachinformatiker für Anwendungsentwicklung** in Germany and to grow through practical projects, clean code and modern technologies.  
-
-## Sprachen / Languages
-- Deutsch: B1 (currently studying B2)  
-- English: Good technical communication  
-
----
-
-## Tech Stack
-
-### Main languages & frameworks
-[![My Skills](https://skillicons.dev/icons?i=php,python,js,ts,cs,cpp,dart,kotlin&perline=8)](https://skillicons.dev)
-
-### Web / Backend
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,django&perline=7)](https://skillicons.dev)
-
-### Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite,supabase,git,github,figma&perline=6)](https://skillicons.dev)
-
-> I am a fast learner and enjoy adapting to new languages and tools when needed.
-
----
-
-## Projekte / Selected Projects
-
-- **C# Desktop Application for a Real Client**  
-  A production desktop application built with C# and .NET for a real client, focusing on reliability, clean architecture and solving a concrete business problem.  
-
-- **NLP Project in Python**  
-  A Natural Language Processing project that processes and analyzes text (classification / Q&A style), demonstrating interest in AI and data‑driven applications.  
-
-- **Web Application (PHP / Node.js + PostgreSQL)**  
-  Full‑stack web app with authentication, database integration and responsive UI using modern web technologies (e.g. Tailwind / Bootstrap).  
-
-- **Flutter Mobile App**  
-  Cross‑platform mobile app built with Flutter & Dart with a clean UI/UX and state management. (Source code available / coming soon on GitHub.)  
-
-> More projects are in progress – I regularly update my repositories with new web, mobile and backend applications.
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LAIDANIMOUNIR&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAIDANIMOUNIR&layout=compact&theme=radical" height="150" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+%26+Web+Enthusiast;Fast+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-## Ziele / Current Goals
-- Start an **Ausbildung als Fachinformatiker für Anwendungsentwicklung** in Germany.  
-- Improve my German from B1 to B2 level.  
-- Build more production‑ready projects using C#, Flutter, Node.js, and modern web technologies.  
-- Contribute to open‑source projects to gain team and code‑review experience.  
+## 🙋‍♂️ Über mich / About Me
+
+Ich bin **Mounir**, angehender **Fachinformatiker für Anwendungsentwicklung** mit Leidenschaft für Web-, Mobile- und Softwareentwicklung.  
+Derzeit bereite ich mich auf eine **Ausbildung in Deutschland** vor und erweitere meine Kenntnisse durch praktische Projekte.
+
+- 🎯 Ziel: **Ausbildung als Fachinformatiker AE** in Deutschland  
+- 🌱 Aktuell lerne ich: **Deutsch B2**, Advanced C#, Flutter & Modern Web Technologies  
+- 💼 Erfahrung: Real client projects (C#), NLP (Python), Full-stack Web Apps  
+- ⚡ Fun fact: Ich kann mich schnell an jede neue Programmiersprache anpassen!  
 
 ---
 
-## Kontakt / Contact
+## 🗣️ Sprachen / Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](PUT_YOUR_LINKEDIN_URL_HERE)  
-[![Email](https://img.shields.io/badge/Email-laidanimounir606%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:laidanimounir606@gmail.com)
+- 🇩🇪 **Deutsch:** B1 → B2 (in progress)  
+- 🇬🇧 **English:** Good technical communication  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,js,ts,cs,cpp,dart,kotlin&perline=8" />
+</p>
+
+### Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,django&perline=7" />
+</p>
+
+### Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,supabase,git,github,figma,androidstudio&perline=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laidanimounir&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laidanimounir&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laidanimounir&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projekte / Selected Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **C# Desktop App** | Production app for real client with clean architecture | C#, .NET, SQL |
+| **NLP Project** | Text classification & analysis using Python | Python, NLP, AI |
+| **Web Application** | Full-stack app with auth & DB integration | PHP/Node.js, PostgreSQL, Tailwind |
+| **Flutter Mobile App** | Cross-platform app with clean UI/UX | Flutter, Dart |
+
+> 💡 More projects coming soon! Check my repositories for updates.
+
+---
+
+## 🎯 Current Goals
+
+- ✅ Improve German to B2 level  
+- 🎓 Start Ausbildung as Fachinformatiker AE in Germany  
+- 🚀 Build production-ready projects with C#, Flutter & modern web tech  
+- 🌍 Contribute to open-source projects  
+
+---
+
+## 📫 Kontakt / Contact
+
+<p align="center">
+  <a href="PUT_YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:laidanimounir606@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/laidanimounir"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
