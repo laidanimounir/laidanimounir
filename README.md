@@ -13,83 +13,147 @@
 
 ## 🙋‍♂️ Über mich / About Me
 
-Ich bin **Mounir**, angehender **Fachinformatiker für Anwendungsentwicklung** mit Leidenschaft für Web-, Mobile- und Softwareentwicklung.  
-Derzeit bereite ich mich auf eine **Ausbildung in Deutschland** vor und erweitere meine Kenntnisse durch praktische Projekte.
+**Mounir** – angehender **Fachinformatiker für Anwendungsentwicklung** mit Leidenschaft für Web-, Mobile- und Softwareentwicklung.  
+Ich bereite mich auf eine **Ausbildung in Deutschland** vor und erweitere meine Kenntnisse durch praktische Projekte.
 
 - 🎯 Ziel: **Ausbildung als Fachinformatiker AE** in Deutschland  
-- 🌱 Aktuell lerne ich: **Deutsch B2**, Advanced C#, Flutter & Modern Web Technologies  
-- 💼 Erfahrung: Real client projects (C#), NLP (Python), Full-stack Web Apps  
-- ⚡ Fun fact: Ich kann mich schnell an jede neue Programmiersprache anpassen!  
+- 🌱 Lerne aktuell: **Deutsch B2**, Advanced C#, Flutter  
+- 💼 Erfahrung: Real client projects (C#), Web Apps, Mobile Development  
+- 🗣️ Sprachen: **Deutsch B1→B2** | **English** (technical communication)
 
 ---
 
-## 🗣️ Sprachen / Languages
+## 🚀 Featured Projects / Hauptprojekte
 
-- 🇩🇪 **Deutsch:** B1 → B2 (in progress)  
-- 🇬🇧 **English:** Good technical communication  
+<table>
+<tr>
+<td width="50%">
+
+### 🖥️ C# Desktop Application
+**Production app for real client**
+
+Built a professional desktop application with:
+- Clean architecture & SOLID principles
+- Database integration (SQL)
+- Real business problem solving
+
+`C#` `WinForms/WPF` `.NET` `SQL`
+
+[→ View Repository](#)
+
+</td>
+<td width="50%">
+
+### 🤖 NLP Text Analysis
+**Python AI Project**
+
+Text classification & analysis using:
+- Natural Language Processing
+- Machine Learning models
+- Data processing pipelines
+
+`Python` `NLP` `Pandas` `scikit-learn`
+
+[→ View Repository](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Web Application
+**PHP/Node.js + PostgreSQL**
+
+Modern web app with:
+- User authentication
+- RESTful API design
+- Responsive UI (Tailwind/Bootstrap)
+
+`PHP/Node.js` `PostgreSQL` `Tailwind` `REST`
+
+[→ View Repository](#)
+
+</td>
+<td width="50%">
+
+### 📱 Flutter Mobile App
+**Cross-platform app**
+
+Mobile application featuring:
+- Clean UI/UX design
+- State management
+- Firebase integration
+
+`Flutter` `Dart` `Firebase` `Android`
+
+[→ View Repository](#)
+
+</td>
+</tr>
+</table>
+
+> 💡 **More projects in progress!** Check my repositories for updates.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-<p align="center">
+### Languages
+<p align="left">
   <img src="https://skillicons.dev/icons?i=php,python,js,ts,cs,cpp,dart,kotlin&perline=8" />
 </p>
 
-### Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,django&perline=7" />
+### Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,flutter,bootstrap,tailwind,figma&perline=7" />
 </p>
 
-### Databases & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,supabase,git,github,figma,androidstudio&perline=7" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laidanimounir&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laidanimounir&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laidanimounir&theme=radical&hide_border=true" />
+### Databases & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,supabase,git,github,androidstudio&perline=6" />
 </p>
 
 ---
 
-## 🚀 Projekte / Selected Projects
+## 📊 GitHub Stats & Contributions
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **C# Desktop App** | Production app for real client with clean architecture | C#, .NET, SQL |
-| **NLP Project** | Text classification & analysis using Python | Python, NLP, AI |
-| **Web Application** | Full-stack app with auth & DB integration | PHP/Node.js, PostgreSQL, Tailwind |
-| **Flutter Mobile App** | Cross-platform app with clean UI/UX | Flutter, Dart |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laidanimounir&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laidanimounir&theme=radical&hide_border=true" height="170" />
+</p>
 
-> 💡 More projects coming soon! Check my repositories for updates.
+### 📈 Contribution Graph (Last 30 Days)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laidanimounir&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+### 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laidanimounir&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
 ## 🎯 Current Goals
 
-- ✅ Improve German to B2 level  
-- 🎓 Start Ausbildung as Fachinformatiker AE in Germany  
-- 🚀 Build production-ready projects with C#, Flutter & modern web tech  
-- 🌍 Contribute to open-source projects  
+- ✅ Deutsch B2 erreichen (derzeit B1)
+- 🎓 Ausbildung als Fachinformatiker AE starten (2026)
+- 🚀 Production-ready Projekte mit C#, Flutter & modernen Web-Technologien
+- 🌍 Beitrag zu Open-Source-Projekten
 
 ---
 
-## 📫 Kontakt / Contact
+## 📫 Kontakt / Let's Connect
 
 <p align="center">
   <a href="PUT_YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:laidanimounir606@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/laidanimounir"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laidanimounir&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
