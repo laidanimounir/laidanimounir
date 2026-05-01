@@ -38,30 +38,16 @@ Currently preparing for vocational training (Ausbildung) in Germany.
 ##  Tech Stack
 
 **Languages**
+![](https://skillicons.dev/icons?i=cs,java,python,js,ts,dart,php&perline=7)
 
-![PHP](https://skillicons.dev/icons?i=php)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![C#](https://skillicons.dev/icons?i=cs)
-![Dart](https://skillicons.dev/icons?i=dart)
+**Frameworks & Libraries**
+![](https://skillicons.dev/icons?i=flutter,react,nodejs,django,laravel,tailwind,bootstrap&perline=7)
 
-**Frameworks & Tools**
+**Databases**
+![](https://skillicons.dev/icons?i=postgresql,sqlite,supabase&perline=7)
 
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Django](https://skillicons.dev/icons?i=django)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-**Databases & DevOps**
-
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Supabase](https://skillicons.dev/icons?i=supabase)
-![Git](https://skillicons.dev/icons?i=git)
-![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+**Tools & Environment**
+![](https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,docker&perline=7)
 
 ---
 
